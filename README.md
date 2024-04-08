@@ -7,5 +7,5 @@ Ad hoc list of interesting books online
 - The Principles of Deep Learning Theory https://arxiv.org/abs/2106.10165
 
 ## Communication
-- https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/
+- GitLab Remote Handbook https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/
 
