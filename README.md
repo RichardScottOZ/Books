@@ -9,3 +9,6 @@ Ad hoc list of interesting books online
 ## Communication
 - GitLab Remote Handbook https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/
 
+## Computer Science
+- Numerical Methods for Scientific Computing https://www.equalsharepress.com/media/NMFSC.pdf
+
