@@ -12,3 +12,6 @@ Ad hoc list of interesting books online
 ## Computer Science
 - Numerical Methods for Scientific Computing https://www.equalsharepress.com/media/NMFSC.pdf
 
+## Geophysics
+- Principles of Seismic Data Processing https://www.slideshare.net/MahmoudMBadawy1/principles-of-seismic-data-processing-mmbadawy
+
