@@ -16,3 +16,7 @@ Ad hoc list of interesting books online
 ## Geophysics
 - Principles of Seismic Data Processing https://www.slideshare.net/MahmoudMBadawy1/principles-of-seismic-data-processing-mmbadawy
 
+
+
+# Cheatsheets
+- KDNuggets DS colletion https://www.kdnuggets.com/wp-content/uploads/KDnuggets-The-Complete-Collection-of-Data-Science-Cheatsheets.pdf
