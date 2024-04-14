@@ -13,6 +13,7 @@ Ad hoc list of interesting books online
 - GitLab Remote Handbook https://handbook.gitlab.com/handbook/company/culture/all-remote/guide/
 
 ## Computer Science
+- Machine Learning Engineering
 - Numerical Methods for Scientific Computing https://www.equalsharepress.com/media/NMFSC.pdf
 
 ## Geophysics
