@@ -16,6 +16,9 @@ Ad hoc list of interesting books online
 - Machine Learning Engineering https://www.mlebook.com/wiki/ 
 - Numerical Methods for Scientific Computing https://www.equalsharepress.com/media/NMFSC.pdf
 
+## Data Science
+- Feature Engineering https://feaz-book.com/
+
 ## Geophysics
 - Principles of Seismic Data Processing https://www.slideshare.net/MahmoudMBadawy1/principles-of-seismic-data-processing-mmbadawy
 
