@@ -2,6 +2,7 @@
 Ad hoc list of interesting books online
 
 ## Deep Learning
+- Deep Learning Book https://www.deeplearningbook.org/
 - Formal Aspects of Language Modelling https://arxiv.org/abs/2311.04329
 - The Hundred Page Machine Learng Book https://themlbook.com/wiki/ 
 
