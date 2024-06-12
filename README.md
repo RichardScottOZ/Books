@@ -23,6 +23,9 @@ Ad hoc list of interesting books online
 ## Geophysics
 - Principles of Seismic Data Processing https://www.slideshare.net/MahmoudMBadawy1/principles-of-seismic-data-processing-mmbadawy
 
+## Statistics
+- Introduction to Modern Statistics
+
 ## Visualisation
 - Scientific Visualisation Book - https://github.com/rougier/scientific-visualization-book
 
