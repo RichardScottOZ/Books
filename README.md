@@ -20,6 +20,8 @@ Ad hoc list of interesting books online
 ## Data Science
 - Feature Engineering https://feaz-book.com/
 
+### Geology
+- LibreTexts Geosciences - https://geo.libretexts.org/Bookshelves/Geology
 ## Geophysics
 - Principles of Seismic Data Processing https://www.slideshare.net/MahmoudMBadawy1/principles-of-seismic-data-processing-mmbadawy
 
