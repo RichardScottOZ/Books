@@ -37,3 +37,9 @@ Ad hoc list of interesting books online
 
 # Cheatsheets
 - KDNuggets DS colletion https://www.kdnuggets.com/wp-content/uploads/KDnuggets-The-Complete-Collection-of-Data-Science-Cheatsheets.pdf
+
+
+## Not Public But Good
+- Manning Early Access Program - https://www.manning.com/meap-program
+    - Pay for a book, get web and ebook versions as they write it - lots of Data Science and Computer Science stuff - you can keep notes etc.  Very good!
+    - 
