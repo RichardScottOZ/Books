@@ -23,8 +23,12 @@ Ad hoc list of interesting books online
 
 ### Geology
 - LibreTexts Geosciences - https://geo.libretexts.org/Bookshelves/Geology
+
 ## Geophysics
 - Principles of Seismic Data Processing https://www.slideshare.net/MahmoudMBadawy1/principles-of-seismic-data-processing-mmbadawy
+
+## Machine Learning
+- Gaussian Processes for Machine Learning  https://gaussianprocess.org/gpml/chapters/
 
 ## Mathematics
 - Linear Algebra for Data Science - https://kyunghyuncho.me/linear-algebra-for-data-science/ [also Korean]
