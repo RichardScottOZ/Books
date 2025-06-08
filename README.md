@@ -20,6 +20,7 @@ Ad hoc list of interesting books online
 
 ## Data Science
 - Feature Engineering https://feaz-book.com/
+- Earth Data Science Course - https://www.earthdatascience.org/courses/use-data-open-source-python/
 
 ### Geology
 - LibreTexts Geosciences - https://geo.libretexts.org/Bookshelves/Geology
