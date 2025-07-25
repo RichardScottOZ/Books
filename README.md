@@ -34,6 +34,9 @@ Ad hoc list of interesting books online
 ## Mathematics
 - Linear Algebra for Data Science - https://kyunghyuncho.me/linear-algebra-for-data-science/ [also Korean]
 
+## Probability
+- Probability and Statistics: The Science of Uncertainty - https://utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf
+
 ## Statistics
 - Introduction to Modern Statistics
 
